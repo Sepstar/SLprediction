@@ -10,8 +10,8 @@ Abstract：The synthetic lethality (SL) relationship arises when a combination o
 
 Gene-gene similarity measures: calculate seven gene–gene similarity measures including the similarities based on gene expression profile, gene encoded protein sequence, PPI network, co-pathway, Gene Ontology Biological Process (GOBP), Gene Ontology Cellular Component (GOCC) and Gene Ontology Molecular Function (GOMF).
 
-SNF.R：integrate the similarity measures based on the gene expression profile, protein sequence, protein–protein interaction (PPI) network, co-pathway and Gene Ontology (GO).
+SNF.R: integrate the similarity measures based on the gene expression profile, protein sequence, protein–protein interaction (PPI) network, co-pathway and Gene Ontology (GO).
 
-knn.R：the main procedure of SL prediction. The similarity-based classification task between gene pairs.
+knn.R: the main procedure of SL prediction. The similarity-based classification task between gene pairs.
 
-ROCandPR：Draw ROC and PR curves.
+ROCandPR: Draw ROC and PR curves.
